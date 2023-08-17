@@ -32,3 +32,9 @@ Get_next_line function reads from a file descriptor and returns the first line e
 > gcc -Wall -Wextra -Werror -D BUFFER_SIZE=Nbr <files> main.c
 > gcc -Wall -Wextra -Werror -D BUFFER_SIZE=Nbr <files_bonus> main.c 
 ```
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> Nbr is the numbers of bytes that read function read each time. 
