@@ -11,6 +11,8 @@
 
 > This project is about programming a function that returns a line read from a file descriptor.
 
+<img align="right" width="150" src="https://github.com/josephcheel/readme/blob/main/resources/125_Success.png">
+
 ### What is the the project about
 Get_next_line function reads from a file descriptor and returns the first line encountered, in other words when encountering a line break character <code>\n</code>. The function uses **static variables** to "remember" the last line ret and continue from that point. 
 
